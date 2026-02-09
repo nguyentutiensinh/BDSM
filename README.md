@@ -81,7 +81,7 @@ Mọi đóng góp đều được hoan nghênh! Bạn có thể:
 
 ## 📜 Giấy phép
 
-Dự án được phát hành theo giấy phép **MIT License** – bạn có thể sử dụng, chỉnh sửa và phân phối tự do.
+Dự án được phát hành theo giấy phép **GPL‑3.0 License** – bạn có thể sử dụng, chỉnh sửa và phân phối tự do.
 
 ---
 
